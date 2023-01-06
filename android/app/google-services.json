@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "358375583702",
+    "firebase_url": "https://championsmonstersd.firebaseio.com",
+    "project_id": "championsmonstersd",
+    "storage_bucket": "championsmonstersd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358375583702:android:13975437f44195e0eebe77",
+        "android_client_info": {
+          "package_name": "edu.uco.jbrown161.cmdapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358375583702-on7c43q2k9fabd1psrdf0g5ejkgaf9rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT1POdfnsSBOHJHbe1zmzUvAgZB6lqybk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358375583702-on7c43q2k9fabd1psrdf0g5ejkgaf9rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
